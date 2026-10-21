@@ -9,4 +9,5 @@ read, in this order:
 2. `CLAUDE.md` - the project's working rules.
 3. `HANDOFF.md` - the dated log of every version.
 
-Code <-> Cowork Mailbox: https://claude.ai/artifact/J2exfghSGMkbAo3ipqi85Q
+Code <-> Cowork Mailbox 2 (from 14 Oct 2026): https://claude.ai/artifact/8M7apRfS43qS8WxoZ9q5NH
+Old Mailbox (entries 1-462, archive only): https://claude.ai/artifact/J2exfghSGMkbAo3ipqi85Q
